@@ -107,7 +107,7 @@ Based on the analysis, the following strategies can improve restaurant performan
 
 ## 📷 Dashboard Preview
 
-https://github.com/rawat-ankit/Restaurant_Performance_Overview/blob/main/Restaurants.png
+![image](https://github.com/rawat-ankit/Restaurant_Performance_Overview/blob/main/Restaurants.png)
 ---
 
 ## 🚀 Conclusion
